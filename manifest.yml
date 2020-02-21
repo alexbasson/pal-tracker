@@ -8,4 +8,4 @@ applications:
       WELCOME_MESSAGE: Hello from Cloud Foundry
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
     services:
-      - pal-tracker-db
+      - tracker-database
